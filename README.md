@@ -26,7 +26,7 @@ The game ends if the player collides with the wrong food or the edge of the game
 
 ## Screenshots
 
-<img src="chemistry.snake.languagemenu.png" alt="Language menu">
+<img src="chemistry.snake.language.menu.png" alt="Language menu">
 
 <img src="chemistry.snake.game.png" alt="Game view">
 
