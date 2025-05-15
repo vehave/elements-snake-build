@@ -4,7 +4,7 @@
 
 Chemical Elements - Snake is an engaging and educational chemistry learning game that allows players to practice the names and symbols of chemical elements in 40 different languages. This game is a creative twist on the classic Snake game, combining fun gameplay with valuable learning opportunities.
 
-I recommend checking out another Snake-based chemistry learning game called Snakeleev, as well as the research indicating that it provides significant learning value after just ten minutes of use: Snakeleev: A Gamified Serious Game for Learning the Periodic Table. J. Chem. Educ., 2025, 102 (5), 1814–1828. <a>https://doi.org/10.1021/acs.jchemed.5c00029</a>. Available at: <a>https://github.com/PietroGalizia/Snakeleev</a>
+I recommend checking out another Snake-based chemistry learning game called Snakeleev, as well as the research indicating that it provides significant learning value after just ten minutes of use: Galizia, P. Snakeleev: A Gamified Serious Game for Learning the Periodic Table. J. Chem. Educ., 2025, 102 (5), 1814–1828. <a>https://doi.org/10.1021/acs.jchemed.5c00029</a>. Available at: <a>https://github.com/PietroGalizia/Snakeleev</a>
 
 ## Game Description
 
